@@ -181,3 +181,4 @@ while i == 1:
 	intro()
 
 
+#partial codes are refer to Mr.Mittag's example.
