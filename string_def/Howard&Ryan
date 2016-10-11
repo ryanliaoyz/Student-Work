@@ -1,0 +1,9 @@
+isalpha: to check the string is alphabet or not
+isdecimal: to check the string is integer or not
+isidentifier: to check to string is identifier or not
+islower: to check the string is lower case or not
+isnumeric: to check the string is number or not
+isprintable: to check the string is printable or not
+isspace: to check the string is space or not
+ljust: add many y in the end of the string str.ljust(x, "y") to get x number of digit
+lower: make the string into lower case.
